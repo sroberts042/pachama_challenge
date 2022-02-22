@@ -1,0 +1,17 @@
+.logo {
+	background-color: rgb(255, 255, 255);
+	background-image: none;
+	mask: url("https://storage.googleapis.com/pachama-production-marketplace-demand-assets/icons/logo-pachama.svg") center center / contain no-repeat;
+	mask-mode: match-source;
+	mask-repeat: no-repeat;
+	mask-clip: border-box;
+	mask-origin: border-box;
+	mask-composite: add;
+	mask-position-x: center;
+	mask-position-y: center;
+	mask-size: contain;
+	mask-image: url("https://storage.googleapis.com/pachama-production-marketplace-demand-assets/icons/logo-pachama.svg");
+	width: 128px;
+	height: 32px;
+}
+/*this code was taken from pachama website*/

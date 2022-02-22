@@ -1,0 +1,33 @@
+{
+  "name": Kootznoowoo,
+  "long_description": "Owned and operated by the Kootznoowoo people, the Kootznoowoo Project offers significant community and wildlife co-benefits. The surrounding region was previously heavily harvested for exports to overseas markets, but this project creates long term protection and management by native communities who have lived there for hundreds of years. The project area is used for community recreation and sustenance hunting. The project's substantial old-growth forest – 43% of the project area – provides essential habitat to Sitka black-tailed deer, black bears, mountain goats, moose, beavers, weasels, land otters, red foxes, and several species of salmon. The protected forest also has wide flora diversity - boasting a number of berry species like red elderberry, salmonberry, thimbleberry, blueberry, and huckleberry.",
+  "forest_type": "Conservation",
+  "short_description": "The Kootznoowoo Improved Forest Management Project preserves old-growth and young growth hemlock-spruce forest along a heavily forested section of Alaska's coastline.",
+  "thumbnail_filename": "kootznoowoo.jpg",
+  "location": "57.6375N, 134.3511W",
+  "area": "8035",
+  "country": "United States",
+  "health_metrics": "{\"stored\": \"5078\", \"change\":\"80\"}"
+}
+{
+  "name": Wu'erqihan Inner Mongolia,
+  "long_description": "The project has identified 70 Key Protected animal species (based on the Chinese National Registry Class I and II), among the 412 species of mammals, birds, fish, and amphibians found in the project area. Protected species include sable, marten bear, musk deer, golden eagle, black-billed grouse, white stork, black stork, Chinese Merganser, white-shouldered eagle, white-tailed sea eagle, jade-belt sea eagle, red-crowned crane, hooded crane, Siberian crane, lynx, brown bear, otter, red deer, moose, and snow hare. There are over 617 plant species identified in the project area, including increasing growth of Chinese medicinal plants such as astragalus, fenfeng, and sophora flavescens. The project intends to employ an additional 45 people to manage and protect the project area.",
+  "forest_type": "Reforestation",
+  "short_description": "乌尔旗汉, Wu'erqihan (pronounced woo-err-chee-hahn) is an improved forest management project in Inner Mongolia. The project covers 43,167 hectares of land in northeastern Inner Mongolia, China, located in the poverty-stricken county of Olunchun Banner.",
+  "thumbnail_filename": "wuerqihan.jpg",
+  "location": "49.5712N, 121.3955E",
+  "area": "43167",
+  "country": "China",
+  "health_metrics": "{\"stored\": \"6549\", \"change\":\"92\"}"
+}
+{
+  "name": "Los Blancos",
+  "long_description": "Distinctively, the Los Bancos project is directly owned and managed by members of the Los Bancos ejido. In Mexico, ejidos are areas of communal land use where the land is tended by its traditional inhabitants. The 44 ejidatarios who call Los Bancos home see carbon finance as a valuable way to balance their economic needs with their dedication to the land and have come together to commit over 80% of the ejido to the project. All ejidatarios participated in a series of community meetings and trainings prior to providing consent for entrusting their land to the project. As the land is communally owned, carbon revenue benefits are distributed amongst the community members. The project also employs several ejido members who provide administrative and forest management support to ensure the project’s ongoing success.",
+  "forest_type": "Conservation",
+  "short_description": "Established in 2018, the Ejido Forestal Los Bancos project conserves communally-owned pine-oak forest in Northern Mexico and provides alternative income to the 44 ejidatarios who have traditionally tended the land. The project hopes to sequester 376,166 tons of CO2 within ten years by leaving 30% more residual timber from planned harvests than is required by Mexican law.",
+  "thumbnail_filename": "losblancos.jpg",
+  "location": "23.6094S, 62.5939W",
+  "area": "3024",
+  "country": "Mexico",
+  "health_metrics": "{\"stored\": \"82\", \"change\":\"2\"}"
+}

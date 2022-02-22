@@ -1,0 +1,15 @@
+.forest-card:hover, .forest-card:focus {
+  color: #212529;
+  background-color: rgba(0, 0, 0, 0.075);
+  cursor: pointer;
+}
+
+.forest-card {
+  height: 100%;
+}
+
+.forest-card-img {
+  min-height: 45%;
+  max-height: 45%;
+  object-fit: cover;
+}
