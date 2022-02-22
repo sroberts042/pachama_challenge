@@ -1,7 +1,7 @@
 To Run:
-from root directory, run 'docker-compose up --build'
-Front end can then be accessed from localhost:3000 in browser
-Back end docs can be accessed from localhost:9096/docs
+ - from root directory, run 'docker-compose up --build'
+ - Front end can then be accessed from localhost:3000 in browser
+ - Back end docs can be accessed from localhost:9096/docs
 
 What I used:
 - React (base), react-router-dom (routing), react-bootstrap (components)
