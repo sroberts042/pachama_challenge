@@ -45,10 +45,10 @@ TODO if I had more time:
       - create separate table for health metrics so we can store stored carbon over time
 
 Time usage list since I got so far along before using git:
-Session 1: 50 min total: 30 min, worked on api initial setup; 20 min, toubleshooting
-Session 2: 30 min, api now working, need to make patch method for updating and also consider what to return in 'forests read' method
-Session3: 30 min, setup browser router, react-bootstrap and make card. Why is react bootstrap not showing styled components? Ah...my node was out of date...Not including the update and re-init in the 4hr limit
-Session4: 30 min, setup toolbar, cards, forest page navigation, axios, and link data, git init (little late)
-Session 5: 30 min, card hover, toolbar title, api bug fix
-Session 6: 45 min, styles, fix names with spaces issue, added data to db as 'source', return to home button, pachama logo
-Session 7: 45 added image to 'forest' page, organize data on 'forest' page, cleanup, css tweaks
+ - Session 1: 50 min total: 30 min, worked on api initial setup; 20 min, toubleshooting
+ - Session 2: 30 min, api now working, need to make patch method for updating and also consider what to return in 'forests read' method
+ - Session3: 30 min, setup browser router, react-bootstrap and make card. Why is react bootstrap not showing styled components? Ah...my node was out of date...Not including the update and re-init in the 4hr limit
+ - Session4: 30 min, setup toolbar, cards, forest page navigation, axios, and link data, git init (little late)
+ - Session 5: 30 min, card hover, toolbar title, api bug fix
+ - Session 6: 45 min, styles, fix names with spaces issue, added data to db as 'source', return to home button, pachama logo
+ - Session 7: 45 added image to 'forest' page, organize data on 'forest' page, cleanup, css tweaks
